@@ -77,6 +77,6 @@ FROM_EMAIL=no-reply@yourdomain.com
 
 I'm open to full-time roles, internships, and ambitious freelance work — especially anything involving AI-powered products or gnarly backend problems.
 
-📧 [prashyam.mitra@outlook.com](mailto:prashyam.mitra@outlook.com) · GitHub: [@prashyamsmitra-cell](https://github.com/prashyamsmitra-cell)
+📧 [prashyam.mitra@outlook.com](mailto:prashyamsmitra@gmail.com) · GitHub: [@prashyamsmitra-cell](https://github.com/prashyamsmitra-cell)
 
 *Kolkata, India — 2026*
