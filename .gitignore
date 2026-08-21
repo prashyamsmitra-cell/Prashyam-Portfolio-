@@ -1,0 +1,38 @@
+# See https://github.com/github/gitignore/blob/main/Node.gitignore
+node_modules/
+
+# Next.js build output
+.next/
+dist/
+out/
+
+# Production
+*.local.production.js
+
+# Vercel
+*.vercel*
+
+# dotenv
+.env*
+.env.local
+
+# TypeScript
+*.tsbuildinfo
+*.tsebestimate
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+#tailwind
+# tailwindcss just stores its config in tailwind.config.js which should be tracked
+
+# Docker
+.dockerignore
+
+# packages (if using monorepo)
+/packages/*
+!/packages/.gitkeep
