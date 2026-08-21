@@ -47,11 +47,36 @@ export async function POST(request: NextRequest) {
     })
 
     // Send thank you email to the user
+    const portfolioUrl = "https://prashyam-portfolio.prashyamsmitra.workers.dev/"
+    const projectLinks = [
+      "https://care-sync-taupe.vercel.app/",
+      "https://cv-analyzer-frontend-mu.vercel.app/",
+      "https://smartlink-gules.vercel.app/",
+    ]
+    const featuredProject = projectLinks[Math.floor(Math.random() * projectLinks.length)]
+
     await transporter.sendMail({
       from: fromEmail,
       to: email,
-      subject: "Thank you for reaching out!",
-      text: `Hi,\n\nThank you for your message. I'll get back to you soon!\n\nBest regards,\nPrashyam`,
+      subject: "Thank you for stopping by!",
+      text: `Hey,
+
+Just wanted to say a genuine thank you for visiting my portfolio and sharing your email.
+
+I'm still learning, building, breaking things, and figuring out how to make each project a little better. So having someone take the time to explore what I've built genuinely means a lot to me.
+
+If you came across something interesting, I'd love to know what you thought. And if you're working on something yourself, maybe there's an opportunity for us to build something together.
+
+Here's another project you might find interesting:
+
+${featuredProject}
+
+Thanks again for stopping by — I really appreciate it.
+
+Maybe this visit turns into a conversation, an idea, or even something we build together.
+
+— Prashyam
+${portfolioUrl}`,
     })
 
     // Notify the portfolio owner

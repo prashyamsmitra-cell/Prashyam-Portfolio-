@@ -22,12 +22,8 @@ export const metadata: Metadata = {
     "Portfolio of Prashyam Mitra — Full Stack Software Engineer specializing in AI integrations, backend architecture, and production-ready web applications.",
   generator: "Next.js",
   icons: {
-    icon: [
-      { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
-      { url: "/icon-dark-32x32.png", media: "(prefers-color-scheme: dark)" },
-      { url: "/icon.svg", type: "image/svg+xml" },
-    ],
-    apple: "/apple-icon.png",
+    icon: "/website%20favicon.jpeg",
+    apple: "/website%20favicon.jpeg",
   },
 }
 
