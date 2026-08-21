@@ -8,11 +8,11 @@ Hi, I'm **Prashyam Mitra**. I build software that ships — real applications, d
 
 ## The Story
 
-**2023.** I taught myself to code. No bootcamp, no CS degree checklist — just React docs open in one tab and Node.js crashing in another. I didn't want to build tutorial clones; I wanted to build things that worked end-to-end. That obsession never left.
+**2025.** I taught myself to code. No bootcamp, no CS degree checklist — just React docs open in one tab and Node.js crashing in another. I didn't want to build tutorial clones; I wanted to build things that worked end-to-end. That obsession never left.
 
-**2023–24.** I landed a software development internship at **Exide Industries**, where the training wheels came off. Real backend services. Enterprise constraints. A QR-based visitor management system that had to actually function in a factory, not just in my localhost. That's where I learned that shipping is a skill of its own.
+**2025–26.** I landed a software development internship at **Exide Industries**, where the training wheels came off. Real backend services. Enterprise constraints. A QR-based visitor management system that had to actually function in a factory, not just in my localhost. That's where I learned that shipping is a skill of its own.
 
-**2024–25.** I went all-in on full stack and stopped asking "can I build this?" and started asking "**will this scale?**" That shift produced [CareSync](https://care-sync-taupe.vercel.app/) — an AI-powered healthcare management platform built on microservices — and a string of production applications.
+**2024–26.** I went all-in on full stack and stopped asking "can I build this?" and started asking "**will this scale?**" That shift produced [CareSync](https://care-sync-taupe.vercel.app/) — an AI-powered healthcare management platform built on microservices — and a string of production applications.
 
 **Now.** I'm an **AI integration engineer**. I wire Google Gemini, LangChain, and LLMs into products the way earlier engineers wired up databases — not as a demo gimmick, but as core infrastructure. My current project, [CV Analyzer](https://cv-analyzer-frontend-mu.vercel.app/), evaluates resumes against ATS standards and talks to users over WhatsApp.
 
